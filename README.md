@@ -4,6 +4,8 @@ A Take home assignment for Data Analyst role at AXA
 
 ## Financial Analysis Using Python and Pandas
 
+Codes from Jupyter Note book and CSV file obtailed from EDA of the data have been provided.
+
 This repository contains Python scripts for fetching, cleaning, analyzing, and visualizing historical data of FTSE100 (UK stock market index) and Bitcoin prices in GBP using the `yfinance` library and `pandas` for data manipulation.
 
 ### Scripts Overview
