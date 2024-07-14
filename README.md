@@ -33,8 +33,15 @@ pip install yfinance pandas matplotlib seaborn
 
 ### Files Included
 
-- **`financial_analysis.py`**: Main script for data fetching, cleaning, analysis, and CSV export.
-- **`merged_data.csv`**: CSV file containing cleaned and merged data of FTSE100 and Bitcoin prices with calculated metrics.
+3 .py files have been uploaded, 
+***Q2_AXA Data Analysis
+***Q2_AXA Data Analysis
+***Q3_AXA Data Analysis
+***A PDF of the power point presentation has also been uploaded
+
+Each .py file answers questions given and explains the train of thought and some of the code.
+
+- **data.csv`**: CSV file containing cleaned and merged data of FTSE100 and Bitcoin prices with calculated metrics.
 
 ### License
 
