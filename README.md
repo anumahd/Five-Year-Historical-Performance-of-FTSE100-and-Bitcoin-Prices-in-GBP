@@ -34,10 +34,10 @@ pip install yfinance pandas matplotlib seaborn
 ### Files Included
 
 3 .py files have been uploaded, 
-***Q2_AXA Data Analysis
-***Q2_AXA Data Analysis
-***Q3_AXA Data Analysis
-***A PDF of the power point presentation has also been uploaded
+- `Q2_AXA Data Analysis`
+- `Q2_AXA Data Analysis`
+- `Q3_AXA Data Analysis`
+- `A PDF of the power point presentation has also been uploaded`
 
 Each .py file answers questions given and explains the train of thought and some of the code.
 
