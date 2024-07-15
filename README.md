@@ -27,9 +27,9 @@ pip install yfinance pandas matplotlib seaborn
 ### Usage
 
 
-3. The script will fetch historical data for FTSE100 and Bitcoin in GBP for the past five years, perform data cleaning and analysis, and save the merged data to `merged_data.csv`.
+3. The script will fetch historical data for FTSE100 and Bitcoin in GBP for the past five years, perform data cleaning and analysis, and save the merged data to `final_data_axa.csv`.
 
-4. Open the generated CSV file (`merged_data.csv`) in your preferred spreadsheet software or use it for further analysis.
+4. Open the generated CSV file (`final_data_axa.csv`) in your preferred spreadsheet software or use it for further analysis.
 
 ### Files Included
 
