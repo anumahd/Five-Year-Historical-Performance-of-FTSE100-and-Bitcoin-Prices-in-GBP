@@ -6,7 +6,7 @@ A Take home assignment for Data Analyst role at AXA
 
 Codes from Jupyter Note book and CSV file obtailed from EDA of the data have been provided.
 
-This repository contains Python scripts for fetching, cleaning, analyzing, and visualizing historical data of FTSE100 (UK stock market index) and Bitcoin prices in GBP using the `yfinance` library and `pandas` for data manipulation.
+This repository contains Python scripts for fetching, cleaning, analysing, and visualising historical data of FTSE100 (UK stock market index) and Bitcoin prices in GBP using the `yfinance` library and `pandas` for data manipulation.
 
 ### Scripts Overview
 
@@ -41,7 +41,7 @@ pip install yfinance pandas matplotlib seaborn
 
 Each .py file answers questions given and explains the train of thought and some of the code.
 
-- **data.csv`**: CSV file containing cleaned and merged data of FTSE100 and Bitcoin prices with calculated metrics.
+- **final_data.csv`**: CSV file containing cleaned and merged data of FTSE100 and Bitcoin prices with calculated metrics.
 
 ### License
 
@@ -50,4 +50,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Acknowledgments
 
 - Data fetched using `yfinance`.
-- Analysis and visualization performed using `pandas`, `matplotlib`, and `seaborn`.
+- Analysis and visualisation performed using `pandas`, `matplotlib`, and `seaborn`.
